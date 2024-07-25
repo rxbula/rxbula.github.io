@@ -3,7 +3,7 @@
     "title": "OpenCASCADE",
     "description": "Геометрическое ядро с открытым исходным кодом",
     "image": {
-      "url": "images/features/occt.png",
+      "url": "images/features/occt_logo.png",
       "width": 80,
       "height": 80
     }
@@ -21,8 +21,8 @@
     "title": "C3D",
     "description": "Геометрическое ядро от C3D Labs",
     "image": {
-      "url": "images/features/c3d.jpeg",
-      "width": 80,
+      "url": "images/features/c3d.jpg",
+      "width": 140,
       "height": 80
     }
   },
@@ -30,7 +30,7 @@
     "title": "CMake",
     "description": "Система сборки CMake",
     "image": {
-      "url": "images/features/cmake.svg",
+      "url": "images/features/cmake.webp",
       "width": 80,
       "height": 80
     }
@@ -93,7 +93,7 @@
     "title": "Linux",
     "description": "Linux-системы",
     "image": {
-      "url": "images/features/linux.svg",
+      "url": "images/features/linux.png",
       "width": 80,
       "height": 80
     }
@@ -102,7 +102,7 @@
     "title": "Git",
     "description": "Система контроля версий",
     "image": {
-      "url": "images/features/git.svg",
+      "url": "images/features/git-logo.svg",
       "width": 80,
       "height": 80
     }
