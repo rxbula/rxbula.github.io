@@ -1,6 +1,6 @@
 ---
-title: "Tax Preperation"
-date: 2019-04-18T12:33:46+10:00
+title: "Программирование Linux"
+date: 2024-07-25T13:00:00+03:00
 weight: 6
 ---
 

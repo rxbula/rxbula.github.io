@@ -12,7 +12,7 @@
     "title": "C/C++",
     "description": "Языки программирования C/C++",
     "image": {
-      "url": "images/features/cpp_logo.png",
+      "url": "images/features/cpp.png",
       "width": 80,
       "height": 80
     }
@@ -21,7 +21,7 @@
     "title": "C3D",
     "description": "Геометрическое ядро от C3D Labs",
     "image": {
-      "url": "images/features/c3d_logo.jpeg",
+      "url": "images/features/c3d.jpeg",
       "width": 80,
       "height": 80
     }
@@ -48,7 +48,7 @@
     "title": "Docker",
     "description": "Контейнерная виртуализация Docker",
     "image": {
-      "url": "images/features/docker.jpg",
+      "url": "images/features/docker.svg",
       "width": 80,
       "height": 80
     }
@@ -63,8 +63,8 @@
     }
   },
   {
-    "title": "Google Testing Framework",
-    "description": "Модульное тестирование",
+    "title": "Google Testing",
+    "description": "Модульное и интеграционное тестирование",
     "image": {
       "url": "images/features/google-testing-framework.jpg",
       "width": 80,
@@ -76,6 +76,33 @@
     "description": "Компьютерная графика",
     "image": {
       "url": "images/features/opengl.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Vulkan",
+    "description": "Компьютерная графика",
+    "image": {
+      "url": "images/features/vulkan.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Linux",
+    "description": "Linux-системы",
+    "image": {
+      "url": "images/features/linux.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Git",
+    "description": "Система контроля версий",
+    "image": {
+      "url": "images/features/git.svg",
       "width": 80,
       "height": 80
     }
