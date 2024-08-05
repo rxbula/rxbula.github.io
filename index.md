@@ -1,13 +1,14 @@
 ---
 title: Численные геометрии
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
 ---
 
 # Управляя пространством
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Наша команда специализируется на сопутствующих CAD/CAE/CAM-системам задачах. Сюда входят обработка геометрических моделей, построение расчетных сеток, визуализации трехмерных сцен и проектирование графических интерфейсов.
+
+Мы используем кроссплатформенные инструменты и стек технологий: языки программирования C/C++, система сборки CMake, менеджер пакетов vcpkg, контейнеры виртуализации Docker, система модульного тестирования gtest и gmock, библиотека виджетов Qt и wxWidgets.
+
