@@ -8,7 +8,7 @@ main:
   - name: "Карьера"
     url: "/team/"
     weight: 3
-  - name: "О нас"
+  - name: "Компания"
     url: "/about/"
     weight: 4
   - name: "Контакты"
