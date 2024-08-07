@@ -7,7 +7,5 @@ promoted: true
 weight: 1
 ---
 
-Hello
-
-World
+Опыт работы с современными версиями OpenGL.
 
